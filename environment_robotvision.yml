@@ -1,0 +1,15 @@
+name: robotvision
+channels:
+- conda-forge
+dependencies:
+- python=3.11
+- opencv
+- matplotlib
+- minimalmodbus=2.1.1
+- numba
+- jupyter
+- pip
+- pip:
+  - robodk
+  - tensorflow
+  - scipy

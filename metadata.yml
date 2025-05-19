@@ -1,0 +1,14 @@
+---
+:id: 330041898
+:submitters:
+- :name: James Le
+  :email: le000364@umn.edu
+- :name: Prapti Bordoloi
+  :email: bordo025@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-04-30 20:12:43.847806000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-04-30 13:12:43.847806000 Z
+:status: processed
+:score: 10.0
